@@ -11,3 +11,5 @@ $preprocessor $dir/../templated_pages/faq_t.html > $dir/../faq.html
 $preprocessor $dir/../templated_pages/faq_t.css  > $dir/../faq.css
 $preprocessor $dir/../templated_pages/news_t.html > $dir/../news.html
 $preprocessor $dir/../templated_pages/news_t.css  > $dir/../news.css
+$preprocessor $dir/../templated_pages/docs_t.html > $dir/../docs.html
+$preprocessor $dir/../templated_pages/docs_t.css  > $dir/../docs.css
