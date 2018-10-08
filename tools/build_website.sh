@@ -1,7 +1,7 @@
 #!/bin/bash
 
 dir=$(pwd)
-preprocessor=$dir/preprocessor/WotScript-scanner-preproccessor/build32/bin/Scanner-Preprocessor/Debug/Scanner-Preprocessor
+preprocessor=$dir/WotScript-scanner-preproccessor/build32/bin/Scanner-Preprocessor/Debug/Scanner-Preprocessor
 
 $preprocessor $dir/../templated_pages/home_t.html > $dir/../home.html
 $preprocessor $dir/../templated_pages/home_t.css  > $dir/../home.css
