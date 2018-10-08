@@ -8,15 +8,21 @@
 
 h1
 {
-    color: white;
-    text-transform: uppercase;
+    color: black;
     font-size: 750%;
     text-align: center;
     margin-top: 15%;
 }
-
-.button
+p
 {
+    color: black;
+    font-size: 250%;
+    text-align: center;
+}
+
+.buttons
+{
+    margin-top: 2.5%;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -41,6 +47,12 @@ h1
 
 .btn-two
 {
+    background-color: grey;
+    font-family: "Roboto", sans-serif;
+}
+
+.btn-three
+{
     background-color: darkorange;
     font-family: "Roboto", sans-serif;
 }
@@ -48,7 +60,7 @@ h1
 .btn:hover
 {
     background-color: orangered;
-    transition: add 0.5s ease-in;
+    transition: all 0.25s ease-in;
 }
 ]
 @include[../templates/style_template.css]
