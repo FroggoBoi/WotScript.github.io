@@ -20,14 +20,6 @@
     transform: translateX(-50%);
 }
 
-.posts section h2 sup
-{
-    font-size: 50%;
-    color: grey;
-    float: right;
-    margin-top: 1%;
-}
-
 .posts section p
 {
     font-size: 250%;
