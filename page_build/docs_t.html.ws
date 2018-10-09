@@ -6,6 +6,6 @@
 @define[PPT_NEWS_ACTIVE:""]
 @define[PPT_FAQ_ACTIVE:""]
 @define[PPT_PAGE_CONTENT:
-@include[../pages/about_c.html]
+@include[../pages/docs_c.html]
 ]
 @include[../templates/page_template.html]

@@ -1,5 +1,5 @@
 @define[PPT_PAGE_TITLE:WotScript About]
-@define[PPT_STYLE_SHEET:"news.css"]
+@define[PPT_STYLE_SHEET:"about.css"]
 @define[PPT_HOME_ACTIVE:""]
 @define[PPT_DOCS_ACTIVE:""]
 @define[PPT_ABOUT_ACTIVE:"active"]

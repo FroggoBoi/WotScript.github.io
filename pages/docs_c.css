@@ -5,59 +5,16 @@
     width: 100%;
 }
 
-h1
+.title h1
 {
     color: black;
     font-size: 750%;
     text-align: center;
-    margin-top: 15%;
+    margin-top: 5%;
 }
-p
+.title p
 {
     color: black;
     font-size: 250%;
     text-align: center;
-}
-
-.buttons
-{
-    margin-top: 2.5%;
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-}
-
-.btn
-{
-    border: 1px solid white;
-    padding: 10px 30px;
-    color: white;
-    text-decoration: none;
-    margin-right: 5px;
-    font-size: 90%;
-    text-transform: uppercase;
-}
-
-.btn-one
-{
-    background-color: grey;
-    font-family: "Roboto", sans-serif;
-}
-
-.btn-two
-{
-    background-color: grey;
-    font-family: "Roboto", sans-serif;
-}
-
-.btn-three
-{
-    background-color: darkorange;
-    font-family: "Roboto", sans-serif;
-}
-
-.btn:hover
-{
-    background-color: orangered;
-    transition: all 0.25s ease-in;
 }
