@@ -1,0 +1,11 @@
+@define[PPT_PAGE_TITLE:WotScript Home]
+@define[PPT_STYLE_SHEET:"home.css"]
+@define[PPT_HOME_ACTIVE:"active"]
+@define[PPT_DOCS_ACTIVE:""]
+@define[PPT_ABOUT_ACTIVE:""]
+@define[PPT_NEWS_ACTIVE:""]
+@define[PPT_FAQ_ACTIVE:""]
+@define[PPT_PAGE_CONTENT:
+@include[../pages/home_c.html]
+]
+@include[../templates/page_template.html]
