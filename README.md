@@ -6,3 +6,9 @@
 * Keep all non-html and non-css content in the `res` folder
 * Only edit the files under `pages` to add or modify content unless more pages are being added or the templates were updated.
 * Please make sure the website still looks fine and is usable before creating a pull request or pushing to this repo.
+
+TODO LIST
+
+* A documentation page
+* New CSS design
+* Proofreading 
